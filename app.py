@@ -17,6 +17,8 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
+st.subheader("⚠️ After Scraping Refresh it once")
+
 # Custom CSS
 st.markdown("""
     <style>
@@ -47,7 +49,7 @@ st.markdown("""
 # Sidebar for input
 with st.sidebar:
     st.header("⚙️ Scraper Settings")
-    
+   
     website_url = st.text_input(
         "Enter Company Website URL",
         value="https://www.notion.so",

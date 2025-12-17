@@ -2,6 +2,10 @@
 
 A powerful web scraping tool that extracts comprehensive business information from company websites using Selenium and BeautifulSoup. Features both CLI and Streamlit UI interfaces.
 
+## 🚀 Live Demo
+
+**Try it now:** [Company Scraper on Streamlit Cloud](https://companyscraper-naqps36tbrf9cv5flcdouy.streamlit.app/)
+
 ## 📋 Features
 
 - **🔍 Comprehensive Data Extraction**

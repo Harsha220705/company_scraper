@@ -1,0 +1,165 @@
+{
+  "metadata": {
+    "timestamp": "2025-12-17T08:01:17.218424+00:00",
+    "pages_crawled": 9,
+    "errors": []
+  },
+  "identity": {
+    "company_name": "Notion",
+    "website": "https://www.notion.so",
+    "tagline": "One workspace. Zero busywork."
+  },
+  "contacts": {
+    "emails": [
+      "team@acmeinc.com",
+      "team@makenotion.com"
+    ],
+    "phones": []
+  },
+  "social_links": {
+    "youtube": "https://www.youtube.com/watch?v=l15dIuFBfMw",
+    "twitter": "https://twitter.com/NotionHQ",
+    "instagram": "https://www.instagram.com/notionhq/",
+    "facebook": "https://www.facebook.com/NotionHQ/",
+    "linkedin": "https://www.linkedin.com/company/notionhq/"
+  },
+  "description": "The AI workspace that works for you. | Notion See this page in your preferred language. Change to English (UK) \u2192 Notion Features Notion AI Build, write, automate Agents New Handles manual tasks Enterprise Search Find answers instantly AI Meeting Notes Perfectly written by AI Docs Simple & powerful Knowledge Base Centralize your knowledge Projects Manage any project Sites Publish anything, fast Get started Explore AI use cases New See what Notion AI can do Browse marketplace Templates for everyth...",
+  "business_info": {
+    "services": [],
+    "pricing": {
+      "tiers": [
+        "Business",
+        "Premium",
+        "Professional",
+        "Basic",
+        "Enterprise",
+        "Pro"
+      ],
+      "prices": [
+        "$35",
+        "$340",
+        "$15",
+        "$0",
+        "$20"
+      ],
+      "trial_available": true,
+      "free_option": true
+    },
+    "target_customers": [
+      "Small business",
+      "Mid-market",
+      "Finance",
+      "Business",
+      "Startup",
+      "Professional",
+      "Consultant",
+      "Team",
+      "Education",
+      "Technology",
+      "Developer",
+      "Enterprise"
+    ]
+  },
+  "key_pages": {
+    "visited": [
+      "https://www.notion.so/product/ai/use-cases/task-management-for-teams",
+      "https://www.notion.so/pricing",
+      "https://www.notion.so/contact-sales",
+      "https://www.notion.so/help",
+      "https://www.notion.so/blog",
+      "https://www.notion.so/careers",
+      "https://www.notion.so/integrations",
+      "https://www.notion.so/partners"
+    ],
+    "page_details": {
+      "https://www.notion.so/product/ai/use-cases/task-management-for-teams": {
+        "text_preview": "Task management for teams See this page in your preferred language. Change to English (UK) \u2192 Notion Features Notion AI Build, write, automate Agents New Handles manual tasks Enterprise Search Find answers instantly AI Meeting Notes Perfectly written by AI Docs Simple & powerful Knowledge Base Centralize your knowledge Projects Manage any project Sites Publish anything, fast Get started Explore AI use cases New See what Notion AI can do Browse marketplace Templates for everything View integration",
+        "title": "Task management for teams",
+        "headings": [
+          "Features",
+          "Notion AI",
+          "Agents",
+          "Enterprise Search",
+          "AI Meeting Notes"
+        ]
+      },
+      "https://www.notion.so/pricing": {
+        "text_preview": "Notion Pricing Plans: Free, Plus, Business, & Enterprise. See this page in your preferred language. Change to English (UK) \u2192 Notion Features Notion AI Build, write, automate Agents New Handles manual tasks Enterprise Search Find answers instantly AI Meeting Notes Perfectly written by AI Docs Simple & powerful Knowledge Base Centralize your knowledge Projects Manage any project Sites Publish anything, fast Get started Explore AI use cases New See what Notion AI can do Browse marketplace Templates",
+        "title": "Notion Pricing Plans: Free, Plus, Business, & Enterprise.",
+        "headings": [
+          "Features",
+          "Notion AI",
+          "Agents",
+          "Enterprise Search",
+          "AI Meeting Notes"
+        ]
+      },
+      "https://www.notion.so/contact-sales": {
+        "text_preview": "Contact our Sales Team \u2013 Notion See this page in your preferred language. Change to English (UK) \u2192 Notion Features Notion AI Build, write, automate Agents New Handles manual tasks Enterprise Search Find answers instantly AI Meeting Notes Perfectly written by AI Docs Simple & powerful Knowledge Base Centralize your knowledge Projects Manage any project Sites Publish anything, fast Get started Explore AI use cases New See what Notion AI can do Browse marketplace Templates for everything View integ",
+        "title": "Contact our Sales Team \u2013 Notion",
+        "headings": [
+          "Features",
+          "Notion AI",
+          "Agents",
+          "Enterprise Search",
+          "AI Meeting Notes"
+        ]
+      },
+      "https://www.notion.so/help": {
+        "text_preview": "Help, Support, and Documentation for Notion See this page in your preferred language. Change to English (UK) \u2192 Notion Features Notion AI Build, write, automate Agents New Handles manual tasks Enterprise Search Find answers instantly AI Meeting Notes Perfectly written by AI Docs Simple & powerful Knowledge Base Centralize your knowledge Projects Manage any project Sites Publish anything, fast Get started Explore AI use cases New See what Notion AI can do Browse marketplace Templates for everythin",
+        "title": "Help, Support, and Documentation for Notion",
+        "headings": [
+          "Features",
+          "Notion AI",
+          "Agents",
+          "Enterprise Search",
+          "AI Meeting Notes"
+        ]
+      },
+      "https://www.notion.so/blog": {
+        "text_preview": "Tools & Craft \u2013 Notion Blog See this page in your preferred language. Change to English (UK) \u2192 Notion Features Notion AI Build, write, automate Agents New Handles manual tasks Enterprise Search Find answers instantly AI Meeting Notes Perfectly written by AI Docs Simple & powerful Knowledge Base Centralize your knowledge Projects Manage any project Sites Publish anything, fast Get started Explore AI use cases New See what Notion AI can do Browse marketplace Templates for everything View integrati",
+        "title": "Tools & Craft \u2013 Notion Blog",
+        "headings": [
+          "Features",
+          "Notion AI",
+          "Agents",
+          "Enterprise Search",
+          "AI Meeting Notes"
+        ]
+      },
+      "https://www.notion.so/careers": {
+        "text_preview": "Careers at Notion | We're Hiring! See this page in your preferred language. Change to English (UK) \u2192 Notion Features Notion AI Build, write, automate Agents New Handles manual tasks Enterprise Search Find answers instantly AI Meeting Notes Perfectly written by AI Docs Simple & powerful Knowledge Base Centralize your knowledge Projects Manage any project Sites Publish anything, fast Get started Explore AI use cases New See what Notion AI can do Browse marketplace Templates for everything View int",
+        "title": "Careers at Notion | We're Hiring!",
+        "headings": [
+          "Features",
+          "Notion AI",
+          "Agents",
+          "Enterprise Search",
+          "AI Meeting Notes"
+        ]
+      },
+      "https://www.notion.so/integrations": {
+        "text_preview": "Integrations \u2013 Notion See this page in your preferred language. Change to English (UK) \u2192 Notion Features Notion AI Build, write, automate Agents New Handles manual tasks Enterprise Search Find answers instantly AI Meeting Notes Perfectly written by AI Docs Simple & powerful Knowledge Base Centralize your knowledge Projects Manage any project Sites Publish anything, fast Get started Explore AI use cases New See what Notion AI can do Browse marketplace Templates for everything View integrations Co",
+        "title": "Integrations \u2013 Notion",
+        "headings": [
+          "Features",
+          "Notion AI",
+          "Agents",
+          "Enterprise Search",
+          "AI Meeting Notes"
+        ]
+      },
+      "https://www.notion.so/partners": {
+        "text_preview": "Become a Notion Partner | Notion See this page in your preferred language. Change to English (UK) \u2192 Notion Features Notion AI Build, write, automate Agents New Handles manual tasks Enterprise Search Find answers instantly AI Meeting Notes Perfectly written by AI Docs Simple & powerful Knowledge Base Centralize your knowledge Projects Manage any project Sites Publish anything, fast Get started Explore AI use cases New See what Notion AI can do Browse marketplace Templates for everything View inte",
+        "title": "Become a Notion Partner | Notion",
+        "headings": [
+          "Features",
+          "Notion AI",
+          "Agents",
+          "Enterprise Search",
+          "AI Meeting Notes"
+        ]
+      }
+    }
+  }
+}
